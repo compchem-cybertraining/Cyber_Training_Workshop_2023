@@ -1,5 +1,5 @@
 ---
-title: "5. Spin-Restricted Ensemble-Referenced Kohn-Sham (REKS) Method: Practical Implementation of Ensemble DFT Methodology"
+title: "5. GAMESS-US"
 ---
 
 <a name="toc"></a>
@@ -95,3 +95,4 @@ title: "5. Spin-Restricted Ensemble-Referenced Kohn-Sham (REKS) Method: Practica
 ## 4.  Hands on: Practical exercises with GAMESS-US and NAMD simulations with GAMESS/pyUNI-xMD package
 
 [Slides](../files/Michael_Filatov/HandsOn.pdf)
+
