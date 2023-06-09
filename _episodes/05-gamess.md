@@ -95,3 +95,4 @@ title: "5. Spin-Restricted Ensemble-Referenced Kohn-Sham (REKS) Method: Practica
 ## 4.  Hands on: Practical exercises with GAMESS-US and NAMD simulations with GAMESS/pyUNI-xMD package
 
 [Slides](../files/Michael_Filatov/HandsOn.pdf)
+
