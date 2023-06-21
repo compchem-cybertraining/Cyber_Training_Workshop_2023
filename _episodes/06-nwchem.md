@@ -6,9 +6,9 @@ title: "6. NWChem"
 # Table of Content
 1. [Generalities](#1) **June 20, morning**
 
-    1.1 [Installation using a Package Manager](#1.1)
+    1.1. [Installation using a Package Manager](#1.1)
 
-    1.2 [Building from Source](#1.2)
+    1.2. [Building from Source](#1.2)
 
 2. [Introduction to NWChem](#2) **June 20, morning**
 
@@ -21,6 +21,18 @@ title: "6. NWChem"
 6. [Correlated methods in NWChem](#6) **June 21, afternoon**
 
 7. [Gaussian-basis MD (QMD) in NWChem](#7) **June 21, afternoon**
+
+8. [Video Recordings](#8)
+  
+    8.1. [Morning Session, June 20](#8.1)
+
+    8.2. [Afternoon Session, June 20](#8.2)
+
+    8.3. [Morning Session, June 21](#8.3)
+
+    8.4. [Afternoon Session, June 21](#8.4)
+
+
 
 
 <a name="1"></a>[Back to TOC](#toc)
@@ -281,5 +293,43 @@ srun --mpi=pmix_v4 --cpu-bind core \
 ## 7. Gaussian-basis MD (QMD) in NWChem
 
 [Slides](../files/NWChem/6_NWChem_QMD_2023.pdf)
+
+
+<a name="8"></a>[Back to TOC](#toc)
+## 8. Videorecordings
+
+<a name="8.1"></a>
+### 8.1. Morning Session, June 20
+Zoom Recording
+
+<iframe src="https://ub.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=8c239f96-973c-48ce-b99c-b0270115c4c2
+&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="900" width="800" 
+style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
+UB Recording
+<iframe src="https://ub.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=27d514b5-8293-4730-9efe-b01f012ccfa8
+&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="900" width="800" 
+style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
+
+<a name="8.2"></a>
+### 8.2. Afternoon Session, June 20
+Zoom Recording 
+
+<iframe src="https://ub.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=bf009b53-6245-4904-94a1-b0270154c966
+&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="900" width="800" 
+style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
+UB Recording
+<iframe src="https://ub.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=b8f55f5e-9cd4-440b-8eef-b01f012db4b8
+&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="900" width="800" 
+style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
+
+<a name="8.3"></a>
+### 8.3. Morning Session, June 21
+
+<a name="8.4"></a>
+### 8.4. Afternoon Session, June 21
 
 

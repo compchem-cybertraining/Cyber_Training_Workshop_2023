@@ -44,6 +44,8 @@ title: "3. Nonadiabatic Dynamics and More with Libra"
 
     5.3. [Wavepackets and Quantum Trajectories with Adaptive Gaussians (QTAG)](#5.3)
 
+    5.4. [Getting started with developing and testing NAMD methods in Libra](#5.4)
+
 
 
 <a name="1"></a>[Back to TOC](#toc)
@@ -218,4 +220,12 @@ style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
   * [QTAG basics](https://github.com/compchem-cybertraining/Tutorials_Libra/blob/master/6_dynamics/5_qtag/1_basics/tutorial.ipynb)
 
+
+<a name="5.4"></a>
+### 5.4. Getting started with developing and testing NAMD methods in Libra
    
+<iframe src="https://ub.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=c147e6dd-9a88-475c-a6f9-b0270154cf88
+&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="900" width="800" 
+style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
+

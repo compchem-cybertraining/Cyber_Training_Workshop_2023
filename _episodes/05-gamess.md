@@ -121,6 +121,31 @@ style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 [Slides](../files/Michael_Filatov/REKS-June19.pdf)
 <a name="4"></a>[Back to TOC](#toc)
 
+
+UB Recording 
+
+<iframe src="https://ub.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=51abff80-5340-457b-a7d4-b01f012ccf86
+&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="900" width="800" 
+style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
+Zoom Recording
+
+<iframe src="https://ub.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=92422f4f-b427-49a5-9325-b026011ecdd9
+&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="900" width="800" 
+style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
+
 ## 4. Hands on: Practical exercises with GAMESS-US and NAMD simulations with GAMESS/pyUNI-xMD package
 [Slides](../files/Michael_Filatov/HandsOn.pdf)
 
+UB Recording
+
+<iframe src="https://ub.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=fb726f7d-c822-469c-822f-b01f012db4a2
+&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="900" width="800" 
+style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
+Zoom Recording 
+
+<iframe src="https://ub.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=c82c5523-9373-4be6-baed-b026014e0087
+&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="900" width="800" 
+style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
