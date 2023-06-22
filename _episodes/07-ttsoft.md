@@ -23,7 +23,7 @@ programs on CCR/clusters/personal computers.
 To save a personal copy of Colab files: File -> Save a copy in drive -> Open in new tab
 
 ### 1.2. Tensor Trains in Chemistry
-Slides - Tensor networks and their applications to molecular systems
+[Slides - Tensor networks and their applications to molecular systems](../files/Micheline_Soley/TT.pdf)
 
 ### 1.3. Tensor-Train Multilinear Algebra
 Slides - Brief overview of tensor network operations
