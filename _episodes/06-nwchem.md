@@ -329,7 +329,26 @@ style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 <a name="8.3"></a>
 ### 8.3. Morning Session, June 21
 
+Zoom Recording
+<iframe src="https://ub.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=6a8f9f68-103b-40bf-829e-b0280110c612
+&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="900" width="800" 
+style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
+UB Recording
+<iframe src="https://ub.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=726b72a8-e547-4246-a4bc-b01f012ccfc4
+&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="900" width="800" 
+style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
+
 <a name="8.4"></a>
 ### 8.4. Afternoon Session, June 21
+Zoom Recording
+<iframe src="https://ub.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=f2ad3537-51ef-4b26-b14b-b02801402adb
+&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="900" width="800" 
+style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
+UB Recording
+<iframe src="https://ub.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=4d75e596-0ba2-4b9b-9998-b01f012db4d4
+&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="900" width="800" 
+style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 

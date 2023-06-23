@@ -34,6 +34,19 @@ Slides - Mathematics of TT-SOFT and TT-Chebyshev
 ### 1.5. Tensor-Train Global Optimization
 Slides - Mathematics of IPA
 
+### 1.6. Videorecordings
+
+Zoom Recording 
+<iframe src="https://ub.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=8d7ba3b1-7866-4627-a1b2-b029011f097d
+&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="900" width="800" 
+style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
+UB Recording
+<iframe src="https://ub.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=9fd51008-31cc-4792-8983-b01f012ccfdf
+&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="900" width="800"  
+style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
+
 ## 2. Hands On with TT-SOFT and TT-Chebyshev, IPA Optimization
 
 ### 2.1. Practical Computation with Tensor Trains
@@ -54,3 +67,16 @@ Exercises: (1) Calculation for varying dimensionality, determination of wavepack
 ### 2.3. IPA
 [Code](https://colab.research.google.com/drive/1u2HM49BzVcN7O9xSMjLFkzmqT1TcQPn7?usp=sharing)
 Exercises: (1) Global optimization, free potential choice, (2) Quantics tensor trains, prime factorization
+
+### 2.4. Videorecordings
+
+Zoom Recording
+<iframe src="https://ub.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=cebded8b-433d-48cf-87ad-b02901615c4c
+&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="900" width="800" 
+style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
+UB Recording
+<iframe src="https://ub.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=2aeb09ab-3e8e-4340-8304-b01f012db4eb
+&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="900" width="800"  
+style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
