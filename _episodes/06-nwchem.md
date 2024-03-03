@@ -286,7 +286,7 @@ srun --mpi=pmix_v4 --cpu-bind core \
 <a name="6"></a>[Back to TOC](#toc)
 ## 6. Correlated methods in NWChem
 
-[Slides](../files/NWChem/5_CorrelatedMethods_2023.pdf)
+[Slides](../files/NWChem/5_NWChem_CorrelatedMethods_2023.pdf)
 
 
 <a name="7"></a>[Back to TOC](#toc)
